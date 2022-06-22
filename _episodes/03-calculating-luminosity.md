@@ -171,7 +171,7 @@ You may notice at the end of the output after the summary a list of runs and lum
 {: .challenge}
 
 > ## Further Information
-> More information can be found in the [Reference](../reference.html) section.
+> More information can be found in the [Reference](../reference.html) section and in the [CMS Guide on how to calculate luminosity](https://opendata.cern.ch/docs/cms-guide-luminosity-calculation).
 {: .callout}
 
 {% include links.md %}
