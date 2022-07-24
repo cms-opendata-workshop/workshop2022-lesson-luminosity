@@ -17,30 +17,13 @@ With `brilcalc` one can calculate luminosity.
 
 ## Installation
 
-If you are using the VM, or if are using the docker container and have the cvmfs file system installed locally, do the following to install `brilcalc`.
+To install brilcalc, run
 
-Set your PATH:
+```
+docker run -it --name brilws gitlab-registry.cern.ch/cms-cloud/brilws-docker
+```
 
-~~~
-export PATH=$HOME/.local/bin:/cvmfs/cms-bril.cern.ch/brilconda/bin:$PATH
-~~~
-{: .bash}
-
-Install BRIL software using `pip`:
-
-~~~
-pip install --user brilws
-~~~
-{: .bash}
-
-At the end of a successful installation you should see the messages:
-
-~~~
-Successfully built brilws
-Installing collected packages: brilws
-Successfully installed brilws
-~~~
-{: .output}
+Alternative ways of using brilcalc can be found at [http://opendata.cern.ch/docs/cms-guide-luminosity-calculation](https://opendata.cern.ch/docs/cms-guide-luminosity-calculation#test-brilcalc).
 
 Check the installation by running the command:
 
