@@ -176,7 +176,7 @@ Luminosity information for Run 3 data is available at [CMS luminosity informatio
   
   
 > ## Further Information
-> More information can be found in the [Reference](../reference.html) section and in the [CMS Guide on how to calculate luminosity](https://opendata.cern.ch/docs/cms-guide-luminosity-calculation).
+> More information can be found in the [Reference](../reference.html) section, and more information on how to conduct common queries is in the [CMS Guide on how to calculate luminosity](https://opendata.cern.ch/docs/cms-guide-luminosity-calculation).
 {: .callout}
 
 {% include links.md %}
