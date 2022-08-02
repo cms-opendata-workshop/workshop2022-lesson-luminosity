@@ -171,8 +171,8 @@ You may notice at the end of the output after the summary a list of runs and lum
 {: .challenge}
 
  
-## Calculating luminosity for Run 3
-Luminosity information for Run 3 data is available at [CMS luminosity information, for 2015 CMS open data](https://opendata.cern.ch/record/1055).
+## Calculating luminosity for Run 2
+Luminosity information for Run 2 open data is available at [CMS luminosity information, for 2015 CMS open data](https://opendata.cern.ch/record/1055).
   
   
 > ## Further Information
