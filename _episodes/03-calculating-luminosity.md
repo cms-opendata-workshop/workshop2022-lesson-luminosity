@@ -128,6 +128,7 @@ You may notice at the end of the output after the summary a list of runs and lum
 {: .callout}
 
 > ## Luminosity over a range of runs
+> Using the `brilcalc lumi --help` and the information found from [this page](http://opendata.web.cern.ch/record/1001) on the CERN Open Data Portal, how does one calculate the
 > integrated luminosity for certified lumi sections for RunA of the 2011 data release?
 >> ## Solution
 >> RunA of 2011 proton-proton data comprises runs 160431 to 173692 (inclusive) so to calculate the integrated luminosity for this era run the command (where we pipe the output to a text file):
